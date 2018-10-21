@@ -1,1 +1,3 @@
 new file in feature1
+
+trying todo  conflict 
